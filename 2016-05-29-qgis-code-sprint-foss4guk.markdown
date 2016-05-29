@@ -11,13 +11,13 @@ author: Saber Razmjooei, Tom Chadwin
 	<img src="http://uk.osgeo.org/images/animatedship.svg" alt="Issue Reporting"/>
 </center>
 
-The Open Source community in the UK will get together for another great FOSS4G meeting from 14 to 16 of June in Southampton. 
+The Open Source community in the UK will get together for another great [FOSS4G meeting from 14 to 16 of June in Southampton](http://uk.osgeo.org/foss4guk2016/). 
 
-QGIS has already established itself as one of the major Open Source GIS applications. To help the community to contribute back to the project, we are running a code sprint.   
+[QGIS](http://qgis.org/en/site/) has already established itself as one of the major Open Source GIS applications. To help the community to contribute back to the project, we are running a code sprint.   
 
 <!-- more -->
 
-The code sprint session will not require prior knowledge of coding, so all participants are welcome to join. 
+The code sprint session will not require prior knowledge of coding, so all participants are welcome to join. Make sure you will need your laptop!
 
 There will be several power users and plugin developers to help with the code sprint. There will be 3 topics covered during the code sprint:
 
@@ -32,11 +32,11 @@ If you are interested in helping with the QGIS documentation, we will run a shor
 
 Participants are required to have installed and configured the following software packages:
 
-- Latest QGIS master
-- Gitub account
-- Git software
-- A text editor (Notepad++) software
-- An image manipulation software (Gimp)
+- [Latest QGIS master](http://qgis.org/en/site/forusers/download.html)
+- [Gitub account](https://github.com/join?source=header-home "github")
+- [Git software](https://desktop.github.com/ "desktop application")
+- A text editor software ([Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html))
+- An image manipulation software ([GIMP](https://www.gimp.org/))
 
 
  
@@ -45,7 +45,7 @@ Participants are required to have installed and configured the following softwar
 For those who are interested in findings bugs, testing existing bugs and cleaning up the bug queue, you will need:
 
 - [An OSGeo ID](http://wiki.osgeo.org/wiki/Special:RequestAccount "OSGeo account")
-- Multiple versions of QGIS
+- [Multiple versions of QGIS](http://qgis.org/en/site/forusers/download.html "qgis osgeo4w installer")
 	- QGIS LTR (LTS)
 	- QGIS release
 	- QGIS master
