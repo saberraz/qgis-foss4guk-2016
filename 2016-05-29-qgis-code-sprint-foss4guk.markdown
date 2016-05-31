@@ -91,3 +91,12 @@ Details of some specific bugs and features are listed in a dedicated [Github
 issue](https://github.com/tomchadwin/qgis2web/issues/270). If you are not
 coming to FOSS4GUK 2016, we'd still really value any help you can give. We'll
 keep an eye on Github, or try the [qgis2web Gitter](https://gitter.im/tomchadwin/qgis2web).
+
+**This is a great opportunity to take your first steps in contributing to an
+open-source project. Come and help - we'll tell you everything you need to
+know, and help you learn the skills you don't yet have. Rest assured that we
+will be at least as grateful as you for the help you give.**
+
+If you are a beginner, @archaeogeek is also running a great workshop at
+FOSS4GUK 2016 on getting started in open-source:
+[Don't be afraid to commit](http://uk.osgeo.org/foss4guk2016/abstracts.html#dont-be-afraid-to-commit)
