@@ -69,7 +69,7 @@ bugs, you will need:
 
 ##Contributing to qgis2web plugin##
 
-![qgis2web](http://plugins.qgis.org/plugins/qgis2web/)
+![qgis2web](https://plugins.qgis.org/static/cache/cf/9d/cf9dcdca7ab8f9f0e94aa0628a6dfde6.png)
 
 Help improve qgis2web by joining any of these activities:
 
