@@ -44,7 +44,8 @@ Participants are required to have installed and configured the following softwar
 
 For those who are interested in findings bugs, testing existing bugs and cleaning up the bug queue, you will need:
 
-- [An OSGeo ID](http://wiki.osgeo.org/wiki/Special:RequestAccount "OSGeo account")
+- [An OSGeo ID](https://www2.osgeo.org/cgi-bin/ldap_create_user.py "OSGeo account")
+   - Currently requires contacting OSGeo admins on IRC (#osgeo) in order to get the registration form (!)
 - [Multiple versions of QGIS](http://qgis.org/en/site/forusers/download.html "qgis osgeo4w installer")
 	- QGIS LTR (LTS)
 	- QGIS release
